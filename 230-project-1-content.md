@@ -27,6 +27,8 @@
   **Monument Valley Screenshot**
   <br>
   <img src="http://is5.mzstatic.com/image/thumb/Purple117/v4/a0/4b/da/a04bdace-44ec-4e07-5c98-8f84f5e585d2/source/576x768bb.jpg" alt="Monument Valley">
+  <br>
+  <img src="http://cdn0.sbnation.com/assets/4155547/monumentvalley_gdc_long.png" alt="Monument Valley">
 ## VIII. Other
   The concept of this idea is inspired by simple puzzle games I have played in the past.
 ## IX. About the Developer
